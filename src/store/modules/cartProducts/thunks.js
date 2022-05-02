@@ -9,7 +9,7 @@ export const addProcutThunk = (productId) => (dispatch, getState) => {
   if (findOnCart) {
     findOnCart.quantity++;
     localStorage.setItem("cartProduct", JSON.stringify(cart));
-    toast.success(`${findProduct.title} adicionado novamente com sucesso!`);
+    toast.success(`Mais uma unidade de ${findProduct.title} adicionada com sucesso!`);
   } else {
     dispatch(addProduct(findProduct));
     toast.success(`${findProduct.title} adicionado com sucesso!`);
@@ -23,6 +23,7 @@ export const removeProductThunk = (productId) => (dispatch, getState) => {
   if (findProduct.quantity >= 2) {
     findProduct.quantity--;
     dispatch(removeProduct(cart));
+    toast.success(`Uma unidade de ${findProduct.title} removida do carrinho com sucesso`);
   } else {
     toast.success(`${findProduct.title} removido do carrinho com sucesso`);
     dispatch(removeProduct(filteredList));

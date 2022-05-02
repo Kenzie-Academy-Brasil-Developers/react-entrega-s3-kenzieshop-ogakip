@@ -5,6 +5,7 @@ import Button from "../Button";
 import { Link } from "react-router-dom";
 import { removeProductThunk } from "../../store/modules/cartProducts/thunks";
 import { useEffect } from "react";
+import TotalValue from "../../components/TotalValue";
 
 const ListCart = () => {
   const { cart } = useSelector((state) => state);
@@ -16,6 +17,7 @@ const ListCart = () => {
 
   return (
     <S.Container>
+      <TotalValue />
       <S.UlContainer>
         {cart && (
           <>
