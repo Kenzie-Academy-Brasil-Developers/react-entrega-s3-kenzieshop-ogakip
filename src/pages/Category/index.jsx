@@ -1,7 +1,7 @@
 import * as S from "./styles";
 import { useSelector } from "react-redux";
 import { useParams } from "react-router-dom";
-import Header from "../../components/Header"
+import Header from "../../components/Header";
 import ListProducts from "../../components/ListProducts";
 
 const Category = () => {
@@ -12,10 +12,14 @@ const Category = () => {
   };
 
   return (
-  <S.Container>
-    <Header/>
-      <ListProducts listCategory={listProducts(`${category}`)} category={category} full/>
-  </S.Container>
+    <S.Container>
+      <Header />
+      <ListProducts
+        listCategory={listProducts(`${category}`)}
+        category={category}
+        full
+      />
+    </S.Container>
   );
 };
 export default Category;

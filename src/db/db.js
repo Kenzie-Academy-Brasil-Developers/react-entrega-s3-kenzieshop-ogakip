@@ -938,7 +938,8 @@ export const products = [
   },
   {
     title: "Memória 8gb Notebook",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_672433-MLA49139936807_022022-W.webp",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_672433-MLA49139936807_022022-W.webp",
     description: "Memória RAM ValueRAM color verde  8GB 1 Kingston KVR16LS11/8",
     price: 169,
     id: 101,
@@ -946,15 +947,18 @@ export const products = [
   },
   {
     title: "Memória 4gb",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_864430-MLA48654999604_122021-W.webp",
-    description: "Memória RAM ValueRAM color verde  4GB 1 Kingston KVR1333D3N9/4G",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_864430-MLA48654999604_122021-W.webp",
+    description:
+      "Memória RAM ValueRAM color verde  4GB 1 Kingston KVR1333D3N9/4G",
     price: 96,
     id: 102,
     category: "memorias",
   },
   {
     title: "Memória 4gb ddr3",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_743529-MLA40194584528_122019-W.webp",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_743529-MLA40194584528_122019-W.webp",
     description: "Memória RAM ValueRAM  4GB 1 Kingston KVR16N11S8/4",
     price: 130,
     id: 103,
@@ -962,7 +966,8 @@ export const products = [
   },
   {
     title: "Memória 8gb ddr4",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_809489-MLA49041448971_022022-W.webp",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_809489-MLA49041448971_022022-W.webp",
     description: "Memória RAM Fatality color preto  8GB 1 RZX-D3D11M1600BL/8G",
     price: 169,
     id: 104,
@@ -970,15 +975,18 @@ export const products = [
   },
   {
     title: "Memória 8gb ddr3",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_979981-MLA48832644266_012022-W.webp",
-    description: "Memória RAM ValueRAM color verde  8GB 1 Kingston KVR24S17S8/8",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_979981-MLA48832644266_012022-W.webp",
+    description:
+      "Memória RAM ValueRAM color verde  8GB 1 Kingston KVR24S17S8/8",
     price: 227,
     id: 105,
     category: "memorias",
   },
   {
     title: "Asrock 760gm-hd",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_698833-MLB44165255255_112020-W.webp",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_698833-MLB44165255255_112020-W.webp",
     description: "Placa Mae Asrock 760gm-hd Am3 Am3 8-core",
     price: 553,
     id: 106,
@@ -986,7 +994,8 @@ export const products = [
   },
   {
     title: "Asrock H510-hvs",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_918454-MLB48050381420_102021-W.webp",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_918454-MLB48050381420_102021-W.webp",
     description: "Placa Mae Asrock H510m-hvs, Ddr4, Socket Lga1200",
     price: 725,
     id: 107,
@@ -994,7 +1003,8 @@ export const products = [
   },
   {
     title: "Asrock B450m Steel",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_731529-MLB44154538605_112020-W.webp",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_731529-MLB44154538605_112020-W.webp",
     description: "Placa Mãe Asrock B450m Steel Legend Chipset B450 Am4  ",
     price: 964,
     id: 108,
@@ -1002,7 +1012,8 @@ export const products = [
   },
   {
     title: "Asrock Fm2a68m",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_880615-MLB46043321140_052021-W.webp",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_880615-MLB46043321140_052021-W.webp",
     description: "Placa-mãe Asrock Fm2a68m-hd+ R2.0 Amd Fm2+ Matx Ddr3",
     price: 482,
     id: 109,
@@ -1010,7 +1021,8 @@ export const products = [
   },
   {
     title: "Asrock 760gm-hd Am3",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_953547-MLB46443001145_062021-W.webp",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_953547-MLB46443001145_062021-W.webp",
     description: "Placa Mãe Asrock 760gm-hd Am3+ Fx-8370 Fx-8350 Fx-8320 125w ",
     price: 619,
     id: 110,
@@ -1018,7 +1030,8 @@ export const products = [
   },
   {
     title: "Asrock D1800 ltx",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_992163-MLB43175584923_082020-W.webp",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_992163-MLB43175584923_082020-W.webp",
     description: "Placa Mae Asrock D1800b Itx + Intel Dual-core J1800 Ddr3",
     price: 648,
     id: 111,
@@ -1026,39 +1039,48 @@ export const products = [
   },
   {
     title: "Fonte PC K-517",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_761793-MLA45719537582_042021-W.webp",
-    description: "Fonte de alimentação para PC Knup KP-517 200W  prata 110V/220V",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_761793-MLA45719537582_042021-W.webp",
+    description:
+      "Fonte de alimentação para PC Knup KP-517 200W  prata 110V/220V",
     price: 69,
     id: 112,
     category: "fontes",
   },
   {
     title: "Fonte MP500W3",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_820620-MLA45719368853_042021-W.webp",
-    description: "Fonte de alimentação para PC One Power MP500W3-I 500W  preta 110V/220V",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_820620-MLA45719368853_042021-W.webp",
+    description:
+      "Fonte de alimentação para PC One Power MP500W3-I 500W  preta 110V/220V",
     price: 171,
     id: 113,
     category: "fontes",
   },
   {
     title: "Fonte GP-650",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_609855-MLA43370086203_092020-W.webp",
-    description: "Fonte de alimentação para PC GameMax GP Series GP-650 650W  black 100V/240V",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_609855-MLA43370086203_092020-W.webp",
+    description:
+      "Fonte de alimentação para PC GameMax GP Series GP-650 650W  black 100V/240V",
     price: 302,
     id: 114,
     category: "fontes",
   },
   {
     title: "Fonte Corsair VS600",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_994216-MLA45719537548_042021-W.webp",
-    description: "Fonte de alimentação para PC Corsair VS Series VS600 600W  black 100V/240V",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_994216-MLA45719537548_042021-W.webp",
+    description:
+      "Fonte de alimentação para PC Corsair VS Series VS600 600W  black 100V/240V",
     price: 371,
     id: 115,
     category: "fontes",
   },
   {
     title: "Fonte Atx 200w",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_679171-MLB45139454502_032021-W.webp",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_679171-MLB45139454502_032021-W.webp",
     description: "Fonte Atx 200w Real + Cabo Energia Tripolar Pc 1,5m",
     price: 69,
     id: 116,
@@ -1066,55 +1088,68 @@ export const products = [
   },
   {
     title: "i7-3770",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_663594-MLA41462860995_042020-W.webp",
-    description: "Processador Intel Core i7-3770 CM8063701211600 de 4 núcleos e  3.9GHz de frequência com gráfica integrada",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_663594-MLA41462860995_042020-W.webp",
+    description:
+      "Processador Intel Core i7-3770 CM8063701211600 de 4 núcleos e  3.9GHz de frequência com gráfica integrada",
     price: 540,
     id: 117,
     category: "processadores",
   },
   {
     title: "I7-7700",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_936678-MLA41463411132_042020-W.webp",
-    description: "Processador gamer Intel Core i7-7700 CM8067702868314 de 4 núcleos e  4.2GHz de frequência com gráfica integrada",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_936678-MLA41463411132_042020-W.webp",
+    description:
+      "Processador gamer Intel Core i7-7700 CM8067702868314 de 4 núcleos e  4.2GHz de frequência com gráfica integrada",
     price: 1667,
     id: 118,
     category: "processadores",
   },
   {
     title: "I3-9100",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_886852-MLA41422930700_042020-W.webp",
-    description: "Processador Intel Core i3-9100 BX80684I39100 de 4 núcleos e  4.2GHz de frequência com gráfica integrada",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_886852-MLA41422930700_042020-W.webp",
+    description:
+      "Processador Intel Core i3-9100 BX80684I39100 de 4 núcleos e  4.2GHz de frequência com gráfica integrada",
     price: 1046,
     id: 119,
     category: "processadores",
   },
   {
     title: "I3-2100",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_966205-MLA44208661425_112020-W.webp",
-    description: "Processador gamer Intel Core i3-2100 BX80623I32100 de 2 núcleos e  3.1GHz de frequência com gráfica integrada",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_966205-MLA44208661425_112020-W.webp",
+    description:
+      "Processador gamer Intel Core i3-2100 BX80623I32100 de 2 núcleos e  3.1GHz de frequência com gráfica integrada",
     price: 130,
     id: 120,
     category: "processadores",
   },
   {
     title: "I3-3240",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_858310-MLA41522216645_042020-W.webp",
-    description: "Processador gamer Intel Core i3-3240 CM8063701137900 de 2 núcleos e  3.4GHz de frequência com gráfica integrada",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_858310-MLA41522216645_042020-W.webp",
+    description:
+      "Processador gamer Intel Core i3-3240 CM8063701137900 de 2 núcleos e  3.4GHz de frequência com gráfica integrada",
     price: 190,
     id: 121,
     category: "processadores",
   },
   {
     title: "I3-2100",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_623082-MLA46192801378_052021-W.webp",
-    description: "Processador Intel Core i3-2100 CM8062301061600 de 2 núcleos e  3.1GHz de frequência com gráfica integrada",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_623082-MLA46192801378_052021-W.webp",
+    description:
+      "Processador Intel Core i3-2100 CM8062301061600 de 2 núcleos e  3.1GHz de frequência com gráfica integrada",
     price: 175,
     id: 122,
     category: "processadores",
   },
   {
     title: "Xiaomi Note 10",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_622904-MLA46168560131_052021-V.webp",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_622904-MLA46168560131_052021-V.webp",
     description: "Xiaomi Redmi Note 10 Dual SIM 128 GB onyx gray 4 GB RAM",
     price: 1449,
     id: 123,
@@ -1122,15 +1157,18 @@ export const products = [
   },
   {
     title: "Xiaomi Poco M3",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_737059-MLA46926462733_072021-V.webp",
-    description: "Xiaomi Pocophone Poco M3 Pro 5G Dual SIM 128 GB cool blue 6 GB RAM",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_737059-MLA46926462733_072021-V.webp",
+    description:
+      "Xiaomi Pocophone Poco M3 Pro 5G Dual SIM 128 GB cool blue 6 GB RAM",
     price: 1429,
     id: 124,
     category: "celulares",
   },
   {
     title: "Samsung A32",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_753396-MLA48158357821_112021-V.webp",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_753396-MLA48158357821_112021-V.webp",
     description: "Samsung Galaxy A32 Dual SIM 128 GB preto 4 GB RAM",
     price: 1479,
     id: 125,
@@ -1138,32 +1176,40 @@ export const products = [
   },
   {
     title: "RTX 3060 Ti",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_968105-MLA48381643794_112021-W.webp",
-    description: "Placa de vídeo Nvidia Gainward  Ghost GeForce RTX 30 Series RTX 3060 Ti NE6306T019P2-190AB 8GB",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_968105-MLA48381643794_112021-W.webp",
+    description:
+      "Placa de vídeo Nvidia Gainward  Ghost GeForce RTX 30 Series RTX 3060 Ti NE6306T019P2-190AB 8GB",
     price: 4900,
     id: 126,
     category: "graficos",
   },
   {
     title: "GTX 550 Ti",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_612805-MLA43205241603_082020-W.webp",
-    description: "Placa de vídeo Nvidia Dex  GeForce 500 Series GTX 550 Ti PV-05 1GB",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_612805-MLA43205241603_082020-W.webp",
+    description:
+      "Placa de vídeo Nvidia Dex  GeForce 500 Series GTX 550 Ti PV-05 1GB",
     price: 479,
     id: 127,
     category: "graficos",
   },
   {
     title: "AMD Radeon HD 6000",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_735037-MLA49111076072_022022-W.webp",
-    description: "Placa de vídeo AMD Pcyes  Radeon HD 6000 Series HD 6570 PJ6570HDR5SF4GB 4GB",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_735037-MLA49111076072_022022-W.webp",
+    description:
+      "Placa de vídeo AMD Pcyes  Radeon HD 6000 Series HD 6570 PJ6570HDR5SF4GB 4GB",
     price: 692,
     id: 128,
     category: "graficos",
   },
   {
     title: "AMD Radeon RX 6600",
-    urlImg: "https://http2.mlstatic.com/D_NQ_NP_992412-MLA48741012500_012022-W.webp",
-    description: "Placa de vídeo AMD Sapphire  Pulse Radeon RX 6600 Series RX 6600 11310-01-20G 8GB",
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_992412-MLA48741012500_012022-W.webp",
+    description:
+      "Placa de vídeo AMD Sapphire  Pulse Radeon RX 6600 Series RX 6600 11310-01-20G 8GB",
     price: 3352,
     id: 129,
     category: "graficos",

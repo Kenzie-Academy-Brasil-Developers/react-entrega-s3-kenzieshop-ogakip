@@ -20,5 +20,5 @@ li {
 button {
     cursor: pointer;
 }
-`
-export default GlobalStyles
+`;
+export default GlobalStyles;

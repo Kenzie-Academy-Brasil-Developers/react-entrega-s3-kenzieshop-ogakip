@@ -58,7 +58,6 @@ export const UlHalf = styled.ul`
       border-radius: 5px;
       background-color: #121e26;
     }
-
   }
 `;
 

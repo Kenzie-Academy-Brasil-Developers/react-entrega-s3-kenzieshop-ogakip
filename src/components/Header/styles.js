@@ -9,7 +9,7 @@ export const Container = styled.div`
   background-color: #4a4956;
 
   @media (max-width: 267px) {
-      flex-direction: column;
+    flex-direction: column;
   }
 `;
 
