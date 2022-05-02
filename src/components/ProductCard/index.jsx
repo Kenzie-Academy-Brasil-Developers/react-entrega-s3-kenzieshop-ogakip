@@ -10,9 +10,6 @@ const ProductCard = ({ title, image, description, category, price, id }) => {
   const { cart } = useSelector((state) => state);
 
   const addProduct = () => {
-    if (!localStorage.getItem("totalPrice")) {
-      localStorage.setItem("totalPrice", JSON.stringify(0));
-    }
     dispatch(addProcutThunk(id));
   };
 
